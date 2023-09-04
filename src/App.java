@@ -5,5 +5,8 @@ public class App {
 
         int summa_addition = tal1+tal2;
         int summa_subtraktion = tal1-tal2;
+
+        System.out.println("summan av "+tal1+" + "+tal2+" är "+summa_addition);
+        System.out.println("summan av "+tal1+" - "+tal2+" är "+summa_subtraktion);
     }
 }
